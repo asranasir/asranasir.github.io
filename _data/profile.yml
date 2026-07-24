@@ -1,0 +1,239 @@
+# ─── Personal ───────────────────────────────────────────────
+name: "Asra Nasir"
+title: "Master of Science in Computer Science"
+role: "Lecturer | Computer Science Graduate"
+
+# ─── Hero Section ───────────────────────────────────────────
+hero:
+  badge: "Available for New Opportunities"
+  name: "Asra Nasir"
+  subtitle: "Master of Science in Computer Science"
+  description: "Computer Science lecturer and researcher specializing in Artificial Intelligence, Machine Learning, and Deep Learning. Experienced in developing multimodal recognition systems, teaching undergraduate courses, and publishing in peer-reviewed venues."
+  resume_url: "assets/AsraNasir-CV.pdf"
+
+# ─── Publications / Research ─────────────────────────────────
+publications:
+  description: "Publications & Research"
+  items:
+    - title: "A Transfer Learning–Based VGG-16 Framework for Automated Pneumonia Detection from Chest X-Ray Images with Real-Time Web Deployment"
+      venue: "SES, Vol. 4, No. 2, pp. 516–537"
+      year: "Feb 2026"
+      description: "Developed a VGG-16 transfer learning framework for automated pneumonia detection, deployed as a real-time web application."
+      pdf_url: ""
+      bibtex_url: ""
+      project_url: ""
+
+    - title: "A Novel Approach for Pakistani Urdu Sign Language Alphabets Recognition and Classification using Various Deep Learning Models with Hand Sign Gesture Data Generation"
+      venue: "Data Intelligence"
+      year: "Sep 2025"
+      description: "Proposed a novel deep learning approach for Pakistani Urdu Sign Language recognition with automated hand-sign gesture data generation."
+      pdf_url: "https://doi.org/10.3724/2096-7004.di.2025.0179"
+      bibtex_url: ""
+      project_url: ""
+
+    - title: "A Novel Maize Plant Disease Classification using Federated Machine Learning in Smart Agriculture"
+      venue: "Data Intelligence"
+      year: ""
+      description: "Applied federated machine learning techniques for classifying maize plant diseases in smart agriculture environments."
+      pdf_url: ""
+      bibtex_url: ""
+      project_url: ""
+
+    - title: "Pakistani Currency Recognition and Classification for Visually Impaired People Using Convolutional Neural Network"
+      venue: "IEEE ICODT 2024"
+      year: "Oct 2024"
+      description: "Developed a CNN-based currency recognition and classification system to assist visually impaired individuals in Pakistan."
+      pdf_url: "https://doi.org/10.1109/icodt262145.2024.10740188"
+      bibtex_url: ""
+      project_url: ""
+
+# ─── Skills ──────────────────────────────────────────────────
+skills:
+  description: "Technical Expertise"
+  categories:
+    - name: "Languages"
+      icon: "code"
+      items:
+        - "Python"
+        - "MySQL"
+        - "WordPress"
+    - name: "Frameworks & Tools"
+      icon: "build"
+      items:
+        - "TensorFlow"
+        - "PyTorch"
+        - "Flutter"
+        - "Git"
+        - "Advanced Excel"
+    - name: "Specializations"
+      icon: "psychology"
+      items:
+        - "Machine Learning"
+        - "Deep Learning"
+        - "Computer Vision"
+        - "Artificial Intelligence"
+
+# ─── Experience ──────────────────────────────────────────────
+experience:
+  description: "Professional & Teaching Experience"
+  jobs:
+    - title: "Lecturer – Visiting Faculty"
+      company: "Institute of Arts & Culture, Lahore"
+      dates: "June 2026 – Present"
+      bullets:
+        - "Delivered lectures on Computer Science courses to undergraduate students."
+        - "Prepared course material, assignments, and assessments."
+        - "Conducted interactive sessions and guided students in academic projects."
+
+    - title: "Lecturer – Visiting Faculty"
+      company: "University of Education, Lahore"
+      dates: "Sep 2025 – Present"
+      bullets:
+        - "Delivered lectures on Computer Science courses to undergraduate students."
+        - "Prepared course material, assignments, and assessments."
+        - "Conducted interactive sessions and guided students in academic projects."
+
+    - title: "Design Project – Student Researcher"
+      company: "Kinnaird College For Women, Lahore"
+      dates: "Aug 2023 – June 2025"
+      bullets:
+        - "Thesis: Developed a multimodal Pakistani Urdu Sign Language Recognition and Emotion Detection system using Deep Learning."
+        - "Developed a model for Detection and Classification of Pakistani Currency using Machine Learning and Deep Learning techniques."
+
+    - title: "Internee – IT Department"
+      company: "Water and Power Development Authority (WAPDA), Lahore"
+      dates: "Aug 2022 – Oct 2022"
+      bullets:
+        - "Maintained WAPDA official websites."
+        - "Wrote MySQL queries for managing employee databases."
+        - "Handled client interaction and adapted to government working protocols."
+
+    - title: "Design Projects – Student"
+      company: "The University of Lahore, Lahore"
+      dates: "Sep 2019 – Aug 2023"
+      bullets:
+        - "Developed a ride-sharing mobile app 'PakRiders' using Flutter as final year project."
+        - "Built a Machine Learning model for predicting diabetic outcomes."
+        - "Participated in PSL 2023 Prediction Model competition using AI/ML techniques."
+
+# ─── Projects ────────────────────────────────────────────────
+projects:
+  description: "Featured Projects"
+  items:
+    - icon: "dataset"
+      title: "Pakistani Urdu Sign Language & Emotion Detection"
+      description: "Developed a multimodal recognition system for Pakistani Urdu Sign Language with integrated emotion detection using Deep Learning techniques."
+      url: ""
+      tags: ["Python", "TensorFlow", "Computer Vision"]
+
+    - icon: "visibility"
+      title: "Pakistani Currency Classification"
+      description: "Built a CNN-based system for real-time Pakistani currency recognition to assist visually impaired individuals."
+      url: ""
+      tags: ["Python", "OpenCV", "CNN"]
+
+    - icon: "smartphone"
+      title: "PakRiders – Ride-Sharing App"
+      description: "Developed a ride-sharing mobile application using Flutter as part of the final year undergraduate project."
+      url: ""
+      tags: ["Flutter", "Dart", "Firebase"]
+
+    - icon: "monitoring"
+      title: "Diabetes Outcome Prediction"
+      description: "Built a Machine Learning model for predicting diabetic outcomes using clinical health indicators."
+      url: ""
+      tags: ["Python", "Scikit-learn", "ML"]
+
+# ─── Education ───────────────────────────────────────────────
+education:
+  items:
+    - degree: "M.S. in Computer Science"
+      institution: "Kinnaird College for Women, Lahore"
+      duration: "Aug 2023 – June 2025"
+      grade: "CGPA 3.04"
+      coursework:
+        - "Advanced Algorithms"
+        - "Machine Learning"
+        - "Deep Learning"
+        - "Computer Vision"
+      honors: "Thesis: Pakistani Urdu Sign Language Recognition & Emotion Detection using Deep Learning"
+      featured: true
+
+    - degree: "B.S. in Computer Science"
+      institution: "The University of Lahore, Lahore"
+      duration: "Sep 2019 – Aug 2023"
+      grade: "CGPA 3.06"
+      coursework:
+        - "Operating Systems"
+        - "Database Management"
+        - "Artificial Intelligence"
+        - "Mobile App Development"
+      honors: "Final Year Project: PakRiders Ride-Sharing App"
+      featured: false
+
+# ─── Certifications & Awards ─────────────────────────────────
+certifications:
+  description: "Certifications & Awards"
+  items:
+    - name: "Cambridge Direct Examinations Invigilation"
+      issuer: "AQOPS — Assessment & Qualification Operations"
+      year: "June 2024"
+      details: "Provided dedicated invigilation and supervision for Cambridge Direct examinations at Beaconhouse Defence Campus during the May–June 2024 series."
+      expired: false
+
+    - name: "Mendeley in Research Cycle"
+      issuer: "Researcher Academy On Campus, HEC Pakistan"
+      year: "Nov 2023"
+      details: "Attended a session on how to effectively use Mendeley in the research cycle."
+      expired: false
+
+    - name: "IEEE Xplore Training"
+      issuer: "IEEE"
+      year: "Oct 2023"
+      details: "Attended a training session on Literature Review with IEEE Xplore Digital Library."
+      expired: false
+
+    - name: "Certificate of Appreciation — Ad Mad Competition"
+      issuer: "Kinnaird Entrepreneurial Club (KEC)"
+      year: "Mar 2022"
+      details: "Won the Ad Mad competition during Kinnaird Business Week 2022."
+      expired: false
+
+    - name: "TCF Summer Camp Internship"
+      issuer: "The Citizens Foundation"
+      year: "Jul 2019"
+      details: "Completed summer camp internship program."
+      expired: false
+
+# ─── Contact ─────────────────────────────────────────────────
+contact:
+  availability: "I am currently open to teaching and research opportunities in Computer Science. Feel free to reach out for collaborations or a chat about AI and education."
+  email: "asranasir09@gmail.com"
+  location: "Lahore, Pakistan"
+  linkedin_url: "https://www.linkedin.com/in/asra-nasir-871b4b325/"
+  github_url: ""
+  scholar_url: "https://scholar.google.com/citations?user=qpny0dAAAAAJ"
+
+# ─── References ──────────────────────────────────────────────
+references:
+  description: "Academic References"
+  items:
+    - name: "Dr. Sidra Zafar"
+      title: "Assistant Professor"
+      institution: "Kinnaird College For Women, Lahore"
+      email: "sidra.zafar@kinnaird.edu.pk"
+
+    - name: "Dr. Ghousia Usman"
+      title: "Assistant Professor"
+      institution: "Kinnaird College For Women, Lahore"
+      email: "ghousia.usman@kinnaird.edu.pk"
+
+    - name: "Ms. Arfa Dilawari"
+      title: "Lecturer"
+      institution: "Kinnaird College For Women, Lahore"
+      email: "arfa.dilawari@kinnaird.edu.pk"
+
+# ─── Footer ──────────────────────────────────────────────────
+footer:
+  brand: "Asra Nasir's Portfolio"
+  copyright: "© 2026 Asra Nasir. All rights reserved."
