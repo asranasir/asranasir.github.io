@@ -12,7 +12,7 @@
 <!-- Material Symbols -->
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL@24,400,0&amp;display=swap" rel="stylesheet"/>
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-<script id="tailwind-config">
+{% raw %}<script id="tailwind-config">
       tailwind.config = {
         darkMode: "class",
         theme: {
@@ -103,7 +103,7 @@
           },
         },
       }
-    </script>
+    </script>{% endraw %}
 <style>
         .material-symbols-outlined {
             font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
@@ -436,7 +436,7 @@
             </p>
 </div>
 </footer>
-<script>
+{% raw %}<script>
         // Simple scroll spy or active nav highlighting logic
         document.addEventListener('DOMContentLoaded', () => {
             const sections = document.querySelectorAll('section');
@@ -462,5 +462,5 @@
                 });
             });
         });
-    </script>
+    </script>{% endraw %}
 </body></html>
